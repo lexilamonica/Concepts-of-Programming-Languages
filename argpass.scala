@@ -1,31 +1,3 @@
-// GENERATED
-
-/* INSTRUCTIONS
- *
- * Complete the exercises below.  For each "EXERCISE" comment, add
- * code immediately below the comment.
- *
- * Please see README.md for instructions, including compilation and testing.
- * 
- * GRADING
- * 
- * 1. Submissions MUST compile using SBT with UNCHANGED configuration and tests with no
- *    compilation errors.  Submissions with compilation errors will receive 0 points.
- *    Note that refactoring the code will cause the tests to fail.
- *
- * 2. You MUST NOT edit the SBT configuration and tests.  Altering it in your submission will
- *    result in 0 points for this assignment.
- *
- * 3. You may declare auxiliary functions if you like.
- *
- * SUBMISSION
- *
- * 1. Push your local repository to the repository created for you on GitHub before the deadline.
- *
- * 2. Late submissions will not be permitted because solutions will be discussed in class.
- * 
- */
-
 object argpass {
 
   class RefInt(initial: Int) {
